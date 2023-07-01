@@ -6,9 +6,6 @@ Quand il y a pertinence, il y a polymorphisme.
 #COURS Diagrammes de classes UML
 UML est une norme complexe de description de programmes informatiques développée par un consortium d'entreprises et de laboratoires, l'OMG. La norme officielle 1.5 est disponible sur leur site. Une nouvelle norme 2.0 est aussi en développement. Ces spécifications sont particulièrement techniques et indigestes.
 
-Ce langage compte pas moins de douze différents types de diagrammes permettant de décrire l'architecture et le fonctionnement d'un programme informatique. L'apprentissage de l'utilisation de ce langage de formalisation nécessiterait un cours complet. De plus, il existe de subtiles différences entre les versions du langage. Nous ne vous demandons pas d'apprendre tout cela par vous-même !
-
-Dans le cadre du projet, il ne vous est demandé qu'un seul type de diagramme : le diagramme de classe, qui présente les relations entre vos différentes classes. Il n'est pas non plus exigé que vos diagrammes respectent parfaitement la syntaxe UML ; il suffit qu'ils ressemblent à des diagrammes de classe et que votre architecture soit compréhensible.
 
 ##classes
 La représentation contient trois compartiments :
@@ -52,8 +49,6 @@ La destruction du tout ne détruit pas les parties.
 ##composition
 La destruction du tout détruit les parties. Rare en Java.
 
-##exercice codage à partir d'un UML
-! [schema exercice interface](diagrammeexo.PNG)mais schéma pas tout à fait juste...
 
 
 
